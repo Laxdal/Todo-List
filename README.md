@@ -2,6 +2,10 @@
 
 一个使用Jetpack Compose构建的Android待办事项应用，采用Material Design 3设计规范，提供简洁直观的用户界面和丰富的任务管理功能。
 
+![Screenshot_2025-01-29-17-56-45-287_com example composetodo](https://github.com/user-attachments/assets/e5ced488-c96a-4691-ba01-92ff5c23e51b)
+![Screenshot_2025-01-29-17-57-15-034_com example composetodo](https://github.com/user-attachments/assets/4f5601ec-e206-4f64-9880-f0ac6ef1ce10)
+
+
 ## 功能特性
 
 ### 1. 任务管理
