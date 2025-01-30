@@ -69,3 +69,31 @@
 - 自定义颜色主题
 
 ## 项目结构 
+app/src/main/java/com/example/composetodo/
+├── model/
+│ └── Task.kt # 任务数据模型
+├── ui/
+│ ├── components/
+│ │ ├── AddTaskDialog.kt # 添加任务对话框
+│ │ ├── TaskItem.kt # 单个任务项组件
+│ │ ├── TaskList.kt # 任务列表组件
+│ │ ├── TaskMenu.kt # 任务操作菜单
+│ │ └── TaskStats.kt # 任务统计组件
+│ ├── theme/
+│ │ └── Theme.kt # 主题相关配置
+│ └── TodoScreen.kt # 主界面组件
+
+## 开发环境
+
+- Android Studio Hedgehog | 2023.1.1
+- Kotlin 1.9.0
+- Gradle 8.2
+- Compose BOM 2024.02.00
+- minSdk 24
+- targetSdk 34
+
+## 许可证
+MIT License
+Copyright (c) 2024 Lawrence Ge
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify,  erge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
