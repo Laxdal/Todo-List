@@ -71,20 +71,6 @@
 - 使用Material Design 3
 - 自定义颜色主题
 
-## 项目结构 
-app/src/main/java/com/example/composetodo/
-├── model/
-│ └── Task.kt # 任务数据模型
-├── ui/
-│ ├── components/
-│ │ ├── AddTaskDialog.kt # 添加任务对话框
-│ │ ├── TaskItem.kt # 单个任务项组件
-│ │ ├── TaskList.kt # 任务列表组件
-│ │ ├── TaskMenu.kt # 任务操作菜单
-│ │ └── TaskStats.kt # 任务统计组件
-│ ├── theme/
-│ │ └── Theme.kt # 主题相关配置
-│ └── TodoScreen.kt # 主界面组件
 
 ## 开发环境
 
