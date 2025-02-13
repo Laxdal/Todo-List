@@ -1,5 +1,7 @@
 # Compose Todo - 现代化的待办事项应用
 
+[English](README_EN.md) | 简体中文
+
 一个使用Jetpack Compose构建的Android待办事项应用，采用Material Design 3设计规范，提供简洁直观的用户界面和丰富的任务管理功能。
 
 ## 功能特性
